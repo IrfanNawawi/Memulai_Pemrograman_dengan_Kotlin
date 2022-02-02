@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Control Flow/Latihan/Latihan" />
+            <option value="$PROJECT_DIR$/Coroutines/latihan/Latihan" />
+            <option value="$PROJECT_DIR$/Data Class dan Collections/Latihan/latihan" />
+            <option value="$PROJECT_DIR$/Functional/Latihan/Latihan" />
+            <option value="$PROJECT_DIR$/Generics/Latihan/Latihan" />
+            <option value="$PROJECT_DIR$/Kotlin Fundamental/Latihan/Latihan" />
+            <option value="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1" />
+            <option value="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2" />
+            <option value="$PROJECT_DIR$/Object-Oriented/Latihan/Latihan" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
