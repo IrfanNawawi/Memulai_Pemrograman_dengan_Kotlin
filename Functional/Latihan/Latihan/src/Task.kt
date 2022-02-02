@@ -23,6 +23,6 @@ fun main() {
 }
 
 // TODO\
-fun String.getFirstAndLast(): Map<String, Char>{
+fun String.getFirstAndLast(): Map<String, Char> {
     return mapOf()
 }

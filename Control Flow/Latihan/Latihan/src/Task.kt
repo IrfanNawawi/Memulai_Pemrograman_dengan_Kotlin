@@ -18,7 +18,7 @@ fun main() {
         if (false) break
 
         // TODO 3
-        val result =0
+        val result = 0
         println("range result is $result")
     }
 }

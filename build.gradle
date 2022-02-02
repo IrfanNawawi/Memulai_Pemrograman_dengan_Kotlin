@@ -27,7 +27,7 @@ subprojects {
 
     repositories {
         mavenCentral()
-        
+
     }
 
     dependencies {
@@ -85,11 +85,11 @@ project(':util') {
     }
 }
 
-configure(subprojects.findAll {it.name != 'util'}) {
-  dependencies {
-      implementation project(':util').sourceSets.main.output
-    testImplementation project(':util').sourceSets.test.output
-  }
+configure(subprojects.findAll { it.name != 'util' }) {
+    dependencies {
+        implementation project(':util').sourceSets.main.output
+        testImplementation project(':util').sourceSets.test.output
+    }
 }
 
 wrapper {

@@ -10,13 +10,13 @@ files:
   visible: true
   placeholders:
   - offset: 17
-    length: 9
+    length: 29
     placeholder_text: println()
     initial_state:
       length: 9
       offset: 17
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: println("Kotlin is Awesome!")
   text: |-
@@ -25,4 +25,7 @@ files:
     }
   learner_created: false
 status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 02 Feb 2022 06:46:11 UTC
 record: -1

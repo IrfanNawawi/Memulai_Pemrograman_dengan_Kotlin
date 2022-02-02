@@ -7,7 +7,8 @@
  *
  */
 
-import kotlinx.coroutines.*
+import kotlinx.coroutines.async
+import kotlinx.coroutines.runBlocking
 
 // TODO 1
 fun sum(valueA: Int, valueB: Int): Int {
