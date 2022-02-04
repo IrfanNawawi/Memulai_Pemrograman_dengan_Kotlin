@@ -16,33 +16,33 @@ files:
   visible: true
   placeholders:
   - offset: 380
-    length: 19
+    length: 29
     placeholder_text: if (false) continue
     initial_state:
       length: 19
       offset: 380
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: if (number % 2 == 0) continue
-  - offset: 427
-    length: 16
+  - offset: 437
+    length: 22
     placeholder_text: if (false) break
     initial_state:
       length: 16
       offset: 427
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: if (number > 15) break
-  - offset: 471
-    length: 14
+  - offset: 487
+    length: 35
     placeholder_text: val result =0
     initial_state:
       length: 13
       offset: 471
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: val result = number * (number + 10)
   text: |-
@@ -72,4 +72,7 @@ files:
     }
   learner_created: false
 status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 04 Feb 2022 12:13:08 UTC
 record: -1
