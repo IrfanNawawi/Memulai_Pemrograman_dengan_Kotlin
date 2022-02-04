@@ -21,4 +21,12 @@ fun main() {
         val result = number * (number + 10)
         println("range result is $result")
     }
+
+    /*
+    * Penjelasan
+    *
+    * TODO 1 : akan menghilangkan number yg bernilai genap atau dilewatkan
+    * TODO 2 : number akan berhenti di lebih dari 15
+    * TODO 3 : output result akan dihasilkan dari hasil number (1, 3, 5, 7, 9, 11, 13, 15) atau ganjil
+    */
 }

@@ -26,4 +26,12 @@ fun calculateResult(valueA: Int, valueB: Int, valueC: Int?): Int {
     val valueCheck = valueC ?: 50
     val result = valueA + (valueB - valueCheck)
     return result
+
+    /*
+    * Penjelasan
+    *
+    * TODO : sebelum memasukan kedalam rumus,
+    *  buatlah pengecekan apabila valueC bernilai null akan di setting 50
+    *  dan jika tidak null tetap
+    */
 }
